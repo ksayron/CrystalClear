@@ -1,0 +1,631 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,300;1,300&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: #fff;
+    color:#222;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 300;
+}
+
+.logo{
+  width: 50px;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 12px 0px;
+    background-color: #e8f2ef;
+  }
+
+.company{
+
+    height: auto;
+    display: flex;
+    align-items: center;
+    margin-right: 10px;
+}
+
+
+  .company-name {
+    font-size: 36px;
+    font-weight: 700;
+    color: #222;
+    letter-spacing: -0.27px;
+    white-space: nowrap;
+  }
+
+  nav {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    padding-left: 40px;
+    gap: 10px;
+
+  }
+
+  nav ul {
+    
+    display: flex;
+    justify-content: flex-end;
+    gap: 15px;
+    font-size: 12px;
+    color: #222;
+    font-weight: 500;
+    line-height: 150%;
+    padding: 10px 0;
+    list-style: none;
+  }
+
+  a{
+    text-decoration: none;
+  }
+
+  a:checked{
+    color: #222;
+  }
+  
+  nav ul li a {
+    text-decoration: none;
+    color: #222;
+    font-weight: 600;
+    
+  }
+  nav ul li a  img{
+    display: none;
+    
+  }
+  nav ul li a:hover{
+    color: #9e9a9a;
+  }
+  nav ul li {
+    white-space: nowrap;
+    font-size: large;
+  }
+
+  .social-icons {
+    display: flex;
+    gap: 10px;
+    padding: 5px 5px 0 20px;
+  }
+
+  .social-icon {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 30px;
+    height: 30px;
+    padding: 10px;
+
+ 
+  }
+
+  .social-icon img {
+    width: 40px;
+    height: auto;
+  }
+  .wrapper{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: 0px auto;
+}
+
+.main .banner{
+    margin: 50px 0;
+    background: url('./img/banner3.jpg') no-repeat;
+    width: 1280px;
+    height: 500px;
+    background-size: cover;
+    background-position: center center;
+    background-blend-mode: multiply;
+    background-color: #707070;
+    position: relative;
+}
+
+.main .banner::after{
+    content: 'Лучшая техника для любых запросов';
+    position: absolute;
+    top: 150px;
+    left: 50px;
+    width: 500px;
+    font-size: 40px;
+    font-weight: 600;
+    color: #fff;
+}
+
+.main .banner::before{
+    content: 'От лучших производителей';
+    position: absolute;
+    top: 250px;
+    left: 50px;
+    width: 300px;
+    font-size: 15px;
+    font-weight: 300;
+    color: #fff;
+}
+
+.main{
+    width: 1280px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    
+}
+
+.catalog{
+    display: flex;
+    flex-direction: column;
+    justify-items: center; 
+}
+
+.goods-name{
+    padding-left: 20px;
+}
+.goods-name p{
+    font-weight: bold;
+    font-size: 22px;
+}
+
+.goods-row{
+    width: 1180px;
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    padding: 16px;
+}
+
+.goods-item{
+    width: 180px;
+    height: 250px;
+    border: 2px solid #828282;
+    display: flex;
+    flex-direction: column;
+}
+
+.goods-item img{
+    height: 150px;
+    object-fit: contain;
+}
+h1{
+  text-align: center;
+  margin: 80px 0px;
+}
+.desc{
+    padding-left: 5px;
+}
+.type{
+    color: #1b1b1b;
+    height: 9px;
+    font-size: 12px;
+}
+.name{
+    font-size: 16px;
+    padding-top: 15px;
+    color: black;
+    font-weight: bold;
+    height: 40px;
+}
+.price{
+    font-size: 12px;
+    width: 80px;
+}
+
+.bottom{
+    display: flex;
+    gap: 10px;
+    padding-left: 5px;
+    align-items: center;
+}
+
+.button img{
+    height: 15px;
+    width: 15px;
+    color: #2B94B5 ;
+    padding-right: 5px;
+}
+
+.button:hover img{
+  mix-blend-mode: difference;
+  color: #fff ;
+}
+
+.button button{
+    height: 30px;
+    width: 80px;
+    border: 2px #2B94B5 solid;
+    background-color: #fff;
+    font-family: "Montserrat", sans-serif;
+}
+
+.button:hover{
+  background-color: #2B94B5;
+}
+
+.button:hover button{
+  height: 30px;
+  width: 80px;
+  border: 2px #2B94B5 solid;
+  background-color: #2B94B5;
+  color: #fff;
+  font-family: "Montserrat", sans-serif;
+}
+
+footer{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    background-color:#1F2937 ;
+    color: #fff;
+    gap: 25px;
+    padding: 30px 0px;
+}
+
+.contact{
+    width: 500px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+
+.desc .name:hover u{
+  text-decoration: underline;
+}
+.desc .name u{
+  text-decoration:none;
+}
+
+p.headline{
+  text-align: center;
+   font-weight: 600; 
+   font-size: 36px;
+   margin: 20px 0px;
+}
+@media(max-width:480px){
+  header{
+    justify-content: space-evenly;
+  }
+  .company{
+    width: 100px;
+    margin: 0px;
+  }
+  .logo svg{
+    width: 40px;
+  }
+  .company-name{
+    font-size: 16px;
+  }
+  nav {
+    justify-content: space-evenly;
+    align-items: center;
+    gap: 10px;
+    padding-left: 10px;
+
+  }
+  li a p{
+    display: none;
+  }
+  nav ul li a  img{
+    display: block;
+    width: 30px;
+  }
+  .main .banner{
+    margin: 50px 0;
+    background: url('./img/banner3.jpg') no-repeat;
+    width: 420px;
+    height: 500px;
+    background-size: cover;
+    background-position: center center;
+    background-blend-mode: multiply;
+    background-color: #707070;
+    position: relative;
+}
+
+.main .banner::after{
+    content: 'Лучшая техника для любых запросов';
+    position: absolute;
+    top: 150px;
+    left: 30px;
+    width: 350px;
+    font-size: 18px;
+    font-weight: 600;
+    color: #fff;
+}
+
+.main .banner::before{
+    content: 'От лучших производителей';
+    position: absolute;
+    top: 180px;
+    left: 30px;
+    width: 300px;
+    font-size: 15px;
+    font-weight: 300;
+    color: #fff;
+}
+
+.main{
+    width: 420px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    
+}
+  header .social-icons {
+    width: 100px;
+    display: none;
+    gap: 5px;
+
+  }
+  footer .social-icons {
+    align-items: center;
+  }
+
+  .social-icon img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 30px;
+    height: 30px;
+    padding: 30px;
+
+ 
+  }
+  .goods-row{
+    width: 400px;
+    flex-wrap: wrap;
+    gap: 30px;
+  }
+  .goods-item:last-child{
+    display: none;
+  }
+  footer{
+    width: 100%;
+  }
+  .contact{
+    width: 300px;
+    flex-direction: column;
+    gap: 10px;
+    align-items: center;
+  }
+
+.goods-name p{
+    font-weight: bold;
+    font-size: 12px;
+    text-align: center;
+}
+
+.goods-item{
+    width: 140px;
+    height: 160px;
+    border: 2px solid #828282;
+    display: flex;
+    flex-direction: column;
+}
+
+.goods-item img{
+    height: 80px;
+    object-fit: contain;
+}
+h1{
+  text-align: center;
+  margin: 80px 0px;
+}
+.desc{
+    padding-left: 5px;
+}
+.type{
+    color: #1b1b1b;
+    height: 9px;
+    font-size: 8px;
+}
+.name{
+    font-size: 16px;
+    padding-top: 5px;
+    color: black;
+    font-weight: bold;
+    height: 40px;
+}
+.price{
+    font-size: 10px;
+    width: 80px;
+}
+
+.bottom{
+    display: flex;
+    gap: 10px;
+    padding-left: 5px;
+    align-items: center;
+}
+
+.button img{
+    height: 10px;
+    width: 10px;
+    color: #2B94B5 ;
+    padding-right: 5px;
+}
+
+
+.button button{
+    height: 20px;
+    width: 60px;
+    border: 2px #2B94B5 solid;
+    background-color: #fff;
+    font-family: "Montserrat", sans-serif;
+    font-size: 10px;
+}
+}
+@media(min-width:481px) and (max-width:768px){
+  header{
+    justify-content: space-around;
+    width: 100%;
+  }
+
+  .logo svg{
+    width: 35px;
+  }
+  .company-name{
+    font-size: 15px;
+  }
+  nav {
+    justify-content: space-evenly;
+    align-items: center;
+    gap: 10px;
+    padding-left: 10px;
+  }
+  nav ul li a p{
+    font-size: 50%;
+  }
+  
+  .main .banner{
+    margin: 20px 0;
+    background: url('./img/banner3.jpg') no-repeat;
+    width: 100%;
+    height: 500px;
+    background-size: cover;
+    background-position: center center;
+    background-blend-mode: multiply;
+    background-color: #707070;
+    position: relative;
+}
+
+.main .banner::after{
+    content: 'Лучшая техника для любых запросов';
+    position: absolute;
+    top: 150px;
+    left: 30px;
+    width: 350px;
+    font-size: 18px;
+    font-weight: 600;
+    color: #fff;
+}
+
+.main .banner::before{
+    content: 'От лучших производителей';
+    position: absolute;
+    top: 180px;
+    left: 30px;
+    width: 300px;
+    font-size: 15px;
+    font-weight: 300;
+    color: #fff;
+}
+.wrapper{margin: 0px;}
+.main{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    
+}
+
+header .social-icons {
+ display: none;
+}
+  .social-icons {
+    align-items: center;
+    gap: 0px;
+    padding: 0px 5px;
+  }
+
+  .social-icon img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 30px;
+    height: 30px;
+    padding: 5px;
+
+ 
+  }
+  .goods-row{
+    width: 90%;
+    flex-wrap: wrap;
+    gap: 30px;
+  }
+  .goods-item:nth-child(even){
+    display: none;
+  }
+  footer{
+    width: 100%;
+  }
+  .contact{
+    width: 300px;
+    flex-direction: column;
+    gap: 10px;
+    align-items: center;
+  }
+  
+  .goods-name p{
+    font-weight: bold;
+    font-size: 12px;
+    text-align: center;
+}
+
+.goods-item{
+    width: 140px;
+    height: 160px;
+    border: 2px solid #828282;
+    display: flex;
+    flex-direction: column;
+}
+
+.goods-item img{
+    height: 80px;
+    object-fit: contain;
+}
+h1{
+  text-align: center;
+  margin: 80px 0px;
+}
+.desc{
+    padding-left: 5px;
+}
+.type{
+    color: #1b1b1b;
+    height: 9px;
+    font-size: 8px;
+}
+.name{
+    font-size: 16px;
+    padding-top: 5px;
+    color: black;
+    font-weight: bold;
+    height: 40px;
+}
+.price{
+    font-size: 10px;
+    width: 80px;
+}
+
+.bottom{
+    display: flex;
+    gap: 10px;
+    padding-left: 5px;
+    align-items: center;
+}
+
+.button img{
+    height: 10px;
+    width: 10px;
+    color: #2B94B5 ;
+    padding-right: 5px;
+}
+
+
+.button button{
+    height: 20px;
+    width: 60px;
+    border: 2px #2B94B5 solid;
+    background-color: #fff;
+    font-family: "Montserrat", sans-serif;
+    font-size: 10px;
+}
+
+}

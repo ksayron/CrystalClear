@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+
+<svg
+   fill="#000000"
+   height="800px"
+   width="800px"
+   version="1.1"
+   id="XMLID_269_"
+   viewBox="0 0 24 24"
+   xml:space="preserve"
+   sodipodi:docname="shop-cart.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs3" /><sodipodi:namedview
+   id="namedview3"
+   pagecolor="#505050"
+   bordercolor="#eeeeee"
+   borderopacity="1"
+   inkscape:showpageshadow="0"
+   inkscape:pageopacity="0"
+   inkscape:pagecheckerboard="0"
+   inkscape:deskcolor="#505050"
+   inkscape:zoom="0.513125"
+   inkscape:cx="-207.55177"
+   inkscape:cy="375.15225"
+   inkscape:window-width="1920"
+   inkscape:window-height="1017"
+   inkscape:window-x="-8"
+   inkscape:window-y="-8"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="shop-cart" />
+<g
+   id="shop-cart">
+	<g
+   id="g1"
+   style="fill:#2b94b5;fill-opacity:1">
+		<circle
+   cx="9"
+   cy="21"
+   r="2"
+   id="circle1"
+   style="fill:#2b94b5;fill-opacity:1" />
+	</g>
+	<g
+   id="g2">
+		<circle
+   cx="19"
+   cy="21"
+   r="2"
+   id="circle2"
+   style="fill:#2b94b5;fill-opacity:1" />
+	</g>
+	<g
+   id="g3"
+   style="fill:#2b94b5;fill-opacity:1">
+		<path
+   d="M21,18H7.2l-4-16H0V0h4.8l0.8,3H24l-3.2,11H8.3l0.5,2H21V18z M7.8,12h11.5l2-7H6L7.8,12z"
+   id="path2"
+   style="fill:#2b94b5;fill-opacity:1" />
+	</g>
+</g>
+</svg>

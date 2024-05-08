@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Заказ</title>
+        <link rel="stylesheet" href="src/style.css">
+        <link rel="stylesheet" href="src/tovar-page.css">
+        <script >
+ const urlParams = new URLSearchParams(window.location.search);
+ const productId = urlParams.get('id');
+
+ fetch('data.xml')
+     .then(response => response.text())
+     .then(data => {
+         const parser = new DOMParser();
+         const xmlDoc = parser.parseFromString(data, 'application/xml');
+
+         const product = xmlDoc.querySelector(`product[id="${productId}"]`);
+
+         if (product) {
+             const productName = product.querySelector('name').textContent;
+             const productImage = product.querySelector('image').textContent;
+             const productPrice = product.querySelector('price').textContent;
+             const characteristics = product.querySelectorAll('characteristic');
+             const description = product.querySelector('description text').innerHTML;
+
+            
+             document.querySelector('.tovar-name b').textContent = productName;
+             document.querySelector('.main .img img').src = productImage;
+             document.querySelector('.order-price b').textContent = productPrice;
+             
+             const charList = document.createElement('ul');
+             characteristics.forEach(characteristic => {
+             const name = characteristic.querySelector('name').textContent;
+             const value = characteristic.querySelector('value').textContent;
+
+             const listItem = document.createElement('li');
+             listItem.innerHTML = `<span>${name}</span> <span>${value}</span>`;
+             charList.appendChild(listItem);
+                 });
+
+             document.querySelector('.char ul').replaceWith(charList);
+
+             document.querySelector('.desc p').innerHTML = description;
+
+         } else {
+             const productContainer = document.querySelector('.product-container');
+             productContainer.innerHTML = '<p>Product not found.</p>';
+         }
+     })
+     .catch(error => {
+         console.error('Error fetching XML document:', error);
+     });
+        </script>
+    </head>
+<body>
+    <header >
+        <div class="company">
+            <div class="logo">
+                <img src="src/img/svg/CrystalClear.svg" alt="Company Logo" class="logo" />
+              </div>
+              <div class="company-name">Crystal<span style="color: #AAD4FF;">Clear</span></div>      
+        </div>
+        <nav >
+          <ul >
+            <li ><a href="index.html"><p>Главная</p><img src="src/img/svg/nav-home.svg" alt=""></a></li>
+            <li ><a href="catalog/Headphones.html"><p>Наушники</p><img src="src/img/svg/nav-headphones.svg" alt=""></a></li>
+            <li ><a href="catalog/Players.html"><p>Проигрыватели</p><img src="src/img/svg/nav-player.svg" alt=""></a></li>
+            <li ><a href="catalog/Video.html"><p>Видеопроизводство</p><img src="src/img/svg/nav-video.svg" alt=""></a></li>
+            
+          </ul>
+        </nav>
+        <div class="social-icons">
+          <a href="https://t.me/ksayron" class="social-icon">
+            <img src="src/img/svg/telegram-logo-svgrepo-com.svg" alt="Telegram" />
+          </a>
+          <a href="https://www.instagram.com/bbrofficial2/" class="social-icon">
+            <img src="src/img/svg/instagram-2-1-logo-svgrepo-com.svg" alt="Instagram" />
+          </a>
+          <a href="https://vk.com/id804071898" class="social-icon">
+            <img src="src/img/svg/vkcom-logo-svgrepo-com.svg" alt="VK" />
+          </a>
+        </div>
+      </header>
+      <div class="wrapper">
+        <div class="tovar-name">
+           <b>Виниловый проигрыватель Audio-Technica AT-LP140XP</b>
+        </div>
+        <div class="main">
+            <div class="img"><img src="src/img/catalog/Player/AT-LP140X.webp" alt=""></div>
+            <div class="info">
+                <div class="order-price">
+                    <b>2050.00 BYN</b>
+                    <a href="order_form.html"><div class="order-button">
+                        <p>Оформить заказ</p>
+                    </div></a>
+                </div>
+                <div class="char-desc">
+                    <div class="char">
+                        <h2>Характеристики</h2>
+                        <ul>
+                            <li><span>Bluetooth</span> <span>Нет</span></li>
+                            <li><span>Выход на наушники</span> <span>Нет</span></li>
+                            <li><span>Крышка</span> <span>Да</span></li>
+                            <li><span>Скорости(об/мин)</span> <span>33 1/3,45,78</span></li>
+                        </ul>
+                    </div>
+                    <div class="desc">
+                        <h2>Описание</h2>
+                        <p><b>Виниловый проигрыватель Audio-Technica AT LP-140XPSilver </b>- профессиональный проигрыватель виниловых пластинок с полностью ручным управлением,
+                            прямым приводом ,опорным диском из литого 
+                            алюминия, устойчивым к резонансу.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+    </div>
+    <div class="product-container"></div>
+    <footer>
+        <div class="contact">
+            <div class="footer-name">Crystal Clear</div>
+            <div class="phone">+375-33-681-19-56</div>
+            <div class="time">с 10:00 по 22:00</div>
+        </div>
+        <div class="social">
+            <div class="social-icons">
+                <a href="#" class="social-icon">
+                  <img src="src/img/svg/telegram-logo-svgrepo-com.svg" alt="Telegram" />
+                </a>
+                <a href="#" class="social-icon">
+                  <img src="src/img/svg/instagram-2-1-logo-svgrepo-com.svg" alt="Instagram" />
+                </a>
+                <a href="#" class="social-icon">
+                  <img src="src/img/svg/vkcom-logo-svgrepo-com.svg" alt="VK" />
+                </a>
+              </div>
+        </div>
+        <div class="legal">&copy; 2024 Crystal Clear. Все права защищены.</div>
+        
+    </footer>
+    
+</body>
+</html>

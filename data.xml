@@ -1,0 +1,1338 @@
+<catalog>
+<product id="1">
+  <name>Беспроводные наушники Sabbat Vooplay Lynn</name>
+  <image>src/img/catalog/Headphones/Sabbat-Vooplay-Lynn.webp</image>
+  <price>219.00 BYN</price>
+  <characteristics>
+    <characteristic>
+      <name>Конструкция</name>
+      <value>Вставные</value>
+    </characteristic>
+    <characteristic>
+      <name>Назначение </name>
+      <value>Портативные</value>
+    </characteristic>
+    <characteristic>
+      <name>Версия Bluetooth</name>
+      <value>5.0</value>
+    </characteristic>
+    <characteristic>
+      <name>Аудиокодеки</name>
+      <value>aptX, AAC, SBC</value>
+    </characteristic>
+  </characteristics>
+  <description>
+    <text>
+        <b>Беспроводные наушники Sabbat Vooplay Lynn</b> представляют собой доступные по 
+        цене беспроводные наушники, идеально подходящие для повседневного использования: 
+        будь то в дороге, во время прогулки, для телефонных разговоров или прослушивания музыки 
+        на работе и дома. Основное преимущество этих наушников заключается в их отличном соотношении цены и 
+        качества. 
+
+    </text>
+  </description>
+</product>
+<product id="2">
+  <name>Игровые наушники Logitech G435</name>
+  <image>src/img/catalog/Headphones/hr/Logitech-G435-white-1-min-417x417.jpg.webp</image>
+  <price>315.00 BYN</price>
+  <characteristics>
+    <characteristic>
+      <name>Конструкция</name>
+      <value>Полноразмерные</value>
+    </characteristic>
+    <characteristic>
+      <name>Назначение </name>
+      <value>Геймерские</value>
+    </characteristic>
+    <characteristic>
+      <name>Версия Bluetooth</name>
+      <value>5.0</value>
+    </characteristic>
+    <characteristic>
+      <name>Аудиокодеки</name>
+      <value>SBC</value>
+    </characteristic>
+  </characteristics>
+  <description>
+    <text>
+        <b>Наушники Logitech G435</b> — это ультралегкая беспроводная гарнитура, 
+        которая обеспечивает превосходное качество звука и комфорт даже при длительном использовании. 
+        Они идеально подходят для геймеров, которые ценят качественный звук и удобство. 
+        Благодаря технологии LightSpeed, наушники подключаются 
+        к устройствам через собственный USB-передатчик или по Bluetooth, обеспечивая стабильную связь без задержек.
+
+    </text>
+  </description>
+</product>
+<product id="3">
+  <name>Беспроводные наушники Marshall Major III Bluetooth</name>
+  <image>src/img/catalog/Headphones/Marshall Major III.webp</image>
+  <price>199.00 BYN</price>
+  <characteristics>
+    <characteristic>
+      <name>Конструкция</name>
+      <value>Накладные</value>
+    </characteristic>
+    <characteristic>
+      <name>Назначение </name>
+      <value>Портативные</value>
+    </characteristic>
+    <characteristic>
+      <name>Версия Bluetooth</name>
+      <value>5.0</value>
+    </characteristic>
+    <characteristic>
+      <name>Аудиокодеки</name>
+      <value>SBC, aptX</value>
+    </characteristic>
+  </characteristics>
+  <description>
+    <text>
+        <b>Наушники Major III Bluetooth</b>  открывают новую главу в 
+        революционной истории Marshall. Это современное, основанное на классических мотивах 
+        устройство было модернизировано, чтобы получить более изящный дизайн при сохранении силуэта, 
+        присущего его исходной классической форме. Major III Bluetooth предоставляет вам свободу 
+        и удобство использования беспроводной технологии Bluetooth aptx и более 30 часов беспроводного 
+        воспроизведения после одной зарядки устройства.
+    </text>
+  </description>
+</product>
+<product id="4">
+  <name>Наушники Sennheiser HD 600</name>
+  <image>src/img/catalog/Headphones/hr/oсrig-417x417.jpg.webp</image>
+  <price>1690.00 BYN</price>
+  <characteristics>
+    <characteristic>
+      <name>Конструкция</name>
+      <value>Накладные</value>
+    </characteristic>
+    <characteristic>
+      <name>Импеданс (Ом) </name>
+      <value>300</value>
+    </characteristic>
+    <characteristic>
+      <name>Bluetoothq</name>
+      <value>Нет</value>
+    </characteristic>
+    <characteristic>
+      <name>Чувствительность (дБ)</name>
+      <value>97</value>
+    </characteristic>
+  </characteristics>
+  <description>
+    <text>
+        <b>Наушники Sennheiser HD 600</b> - это профессиональные наушники, 
+        предназначенные для референтного воспроизведения звука. Они признаны во 
+        всем мире как стандарт для аналитического прослушивания как в технических, так и в hi-fi приложениях
+    </text>
+  </description>
+</product>
+<product id="5">
+  <name>Беспроводные наушники Audio-Technica ATH-S220BT</name>
+  <image>src/img/catalog/Headphones/ATH-S220BT(color).jpg</image>
+  <price>259.00 BYN</price>
+  <characteristics>
+    <characteristic>
+      <name>Конструкция</name>
+      <value>Накладные</value>
+    </characteristic>
+    <characteristic>
+      <name>Назначение </name>
+      <value>Портативные</value>
+    </characteristic>
+    <characteristic>
+      <name>Версия Bluetooth</name>
+      <value>5.0</value>
+    </characteristic>
+    <characteristic>
+      <name>Аудиокодеки</name>
+      <value>SBC</value>
+    </characteristic>
+  </characteristics>
+  <description>
+    <text>
+        <b>Наушники ATH-S220BT</b> - это идеальный выбор для тех, кто ищет Bluetooth-наушники 
+        с длительным временем автономной работы. Эти беспроводные наушники имеют 60-часовое 
+        время автономной работы, что делает их надежным спутником в путешествии или идеальным 
+        выбором для прослушивания любимого альбома или подкаста.
+        </text>
+  </description>
+</product>
+<product id="6">
+  <name>Беспроводные наушники JBL JR310BT</name>
+  <image>src/img/catalog/Headphones/hr/JBL-JR-310BT-Green-1-417x417.jpg.webp</image>
+  <price>165.00 BYN</price>
+  <characteristics>
+    <characteristic>
+      <name>Конструкция</name>
+      <value>Накладные</value>
+    </characteristic>
+    <characteristic>
+      <name>Назначение </name>
+      <value>Детские</value>
+    </characteristic>
+    <characteristic>
+      <name>Версия Bluetooth</name>
+      <value>5.0</value>
+    </characteristic>
+    <characteristic>
+      <name>Аудиокодеки</name>
+      <value>SBC</value>
+    </characteristic>
+  </characteristics>
+  <description>
+    <text>
+        <b>Наушники JBLJR 310BT</b> разработаны специально для детей.
+         Они отличаются от «взрослых» моделей не только яркой расцветкой, но и особой системой управления, ограничивающей громкость на уровне 85 дБ. 
+        Это позволяет защитить уши ребёнка от повреждений, сохранив остроту слуха.
+        </text>
+  </description>
+</product>
+<product id="7">
+  <name>Студийные наушники AKG K371</name>
+  <image>src/img/catalog/Headphones/hr/AKG_K371-BT_03-417x417.jpg.webp</image>
+  <price>899.00 BYN</price>
+  <characteristics>
+    <characteristic>
+      <name>Конструкция</name>
+      <value>Полноразмерные</value>
+    </characteristic>
+    <characteristic>
+      <name>Импеданс (Ом) </name>
+      <value>32</value>
+    </characteristic>
+    <characteristic>
+      <name>Bluetoothq</name>
+      <value>Да</value>
+    </characteristic>
+    <characteristic>
+      <name>Чувствительность (дБ)</name>
+      <value>114</value>
+    </characteristic>
+  </characteristics>
+  <description>
+    <text>
+         Профессиональные студийные наушники <b>AKG K371-BT</b> обеспечивают 
+        идеальный баланс между студийного качества звуком, 
+        функциональностью Bluetooth, очень комфортной посадкой, прочной конструкцией и элегантным дизайном. 
+        Что полностью соответствует мобильному образу жизни современных профессионалов и любителей музыки.
+    </text>
+  </description>
+</product>
+<product id="8">
+  <name>Студийные наушники BeyerDynamic DT1770 PRO</name>
+  <image>src/img/catalog/Headphones/hr/beyerdynamic-dt-1770-pro-250-ohm-2-417x417.jpg.webp</image>
+  <price>1790.00 BYN</price>
+  <characteristics>
+    <characteristic>
+      <name>Конструкция</name>
+      <value>Полноразмерные</value>
+    </characteristic>
+    <characteristic>
+      <name>Импеданс (Ом) </name>
+      <value>250</value>
+    </characteristic>
+    <characteristic>
+      <name>Bluetoothq</name>
+      <value>Да</value>
+    </characteristic>
+    <characteristic>
+      <name>Чувствительность (дБ)</name>
+      <value>102</value>
+    </characteristic>
+  </characteristics>
+  <description>
+    <text>
+        <b>Beyerdynamic DT 1770 PRO</b> обеспечивают 
+         новые профессиональные наушники от немецкой компании Beyerdynamic, 
+        как дань традиции знаменитого бренда. Это новый шаг в эволюции наушников DT 770 PRO, 
+        которые десятилетиями пользовались огромным успехом и стали незаменимым инструментом 
+        профессиональных пользователей во всем мире.
+        </text>
+  </description>
+</product>
+<product id="9">
+  <name>Студийные наушники Focal Listen Pro</name>
+  <image>src/img/catalog/Headphones/hr/296672604.webp</image>
+  <price>869.00 BYN</price>
+  <characteristics>
+    <characteristic>
+      <name>Конструкция</name>
+      <value>Полноразмерные</value>
+    </characteristic>
+    <characteristic>
+      <name>Импеданс (Ом) </name>
+      <value>32</value>
+    </characteristic>
+    <characteristic>
+      <name>Bluetoothq</name>
+      <value>Да</value>
+    </characteristic>
+    <characteristic>
+      <name>Чувствительность (дБ)</name>
+      <value>122</value>
+    </characteristic>
+  </characteristics>
+  <description>
+    <text>
+        <b>Focal Listen Pro</b> - элегантные и стильные преемники Spirit Pro 
+        с новым складным дизайном, 
+        надежными 40-мм драйверами, пассивной шумоизоляцией и универсальной совместимостью со смартфонами.
+        </text>
+  </description>
+</product>
+<product id="10">
+  <name>Студийные наушники Behringer BH 770</name>
+  <image>src/img/catalog/Headphones/hr/behringer-bh-770-1-min-417x417.jpg.webp</image>
+  <price>869.00 BYN</price>
+  <characteristics>
+    <characteristic>
+      <name>Конструкция</name>
+      <value>Полноразмерные</value>
+    </characteristic>
+    <characteristic>
+      <name>Импеданс (Ом) </name>
+      <value>25</value>
+    </characteristic>
+    <characteristic>
+      <name>Bluetoothq</name>
+      <value>Да</value>
+    </characteristic>
+    <characteristic>
+      <name>Чувствительность (дБ)</name>
+      <value>97</value>
+    </characteristic>
+  </characteristics>
+  <description>
+    <text>
+        <b>Behringer BH 770</b> - отличные динамические наушники от компании Behringer,
+        которые станут отличным выбором для любой небольшой студии звукозаписи. 
+        За счет закрытого акустического оформления достигается хорошая шумоизоляция, 
+        а 53-миллиметровые драйверы гарантируют четкое и сбалансированное звучание
+        </text>
+  </description>
+</product>
+<product id="11">
+  <name>Игровые наушники Logitech G733</name>
+  <image>src/img/catalog/Headphones/hr/logitech-g733-kda-1-417x417.jpg.webp</image>
+  <price>550.00 BYN</price>
+  <characteristics>
+    <characteristic>
+      <name>Конструкция</name>
+      <value>Полноразмерные</value>
+    </characteristic>
+    <characteristic>
+      <name>Назначение </name>
+      <value>Геймерские</value>
+    </characteristic>
+    <characteristic>
+      <name>Версия Bluetooth</name>
+      <value>5.0</value>
+    </characteristic>
+    <characteristic>
+      <name>Аудиокодеки</name>
+      <value>SBC</value>
+    </characteristic>
+  </characteristics>
+  <description>
+    <text>
+        <b>Наушники Logitech G733</b> созданы для комфортной игры.
+         Объемный звук, голосовые фильтры и улучшенная подсветка: эта гарнитура не только обеспечивает кристально 
+        чистое звучание и непревзойденное качество игры, но и служит весьма стильным аксессуаром.
+    </text>
+  </description>
+</product>
+<product id="12">
+  <name>Игровые наушники HyperX Alpha-S</name>
+  <image>src/img/catalog/Headphones/hr/hyperx-alpha-s-1-417x417.jpg.webp</image>
+  <price>347.00 BYN</price>
+  <characteristics>
+    <characteristic>
+      <name>Конструкция</name>
+      <value>Полноразмерные</value>
+    </characteristic>
+    <characteristic>
+      <name>Импеданс (Ом) </name>
+      <value>65</value>
+    </characteristic>
+    <characteristic>
+      <name>Bluetoothq</name>
+      <value>Да</value>
+    </characteristic>
+    <characteristic>
+      <name>Чувствительность (дБ)</name>
+      <value>99</value>
+    </characteristic>
+  </characteristics>
+  <description>
+    <text>
+        <b>Гарнитура HyperX Cloud Alpha-S</b> создана 
+        на основе передовой системы Cloud Alpha и отличается виртуальным объемным звуком HyperX 7.1. С помощью входящего в комплект микшера управления звуком вы можете 
+        включить объемный звук и настроить баланс громкости для игры и разговора, не заходя в какие-либо меню.
+    </text>
+  </description>
+</product>
+<product id="13">
+  <name>Игровые наушники Corsair Virtuoso</name>
+  <image>src/img/catalog/Headphones/hr/corsair_virtuoso-417x417.jpg.webp</image>
+  <price>767.00 BYN</price>
+  <characteristics>
+    <characteristic>
+      <name>Конструкция</name>
+      <value>Полноразмерные</value>
+    </characteristic>
+    <characteristic>
+      <name>Назначение </name>
+      <value>Геймерские</value>
+    </characteristic>
+    <characteristic>
+      <name>Версия Bluetooth</name>
+      <value>5.0</value>
+    </characteristic>
+    <characteristic>
+      <name>Аудиокодеки</name>
+      <value>SBC</value>
+    </characteristic>
+  </characteristics>
+  <description>
+    <text>
+        Благодаря гарнитуре <b>Corsair Virtuoso RGB</b> вы услышите больше звуков: 
+        от шороха легчайших шагов до самых глубоких басовых тонов. Согласованная пара точно настроенных высокоплотных неодимовых динамиков диаметром 50 мм обладает диапазоном частот от 20 до 40 000 Гц, 
+        который превышает диапазоны большинства игровых гарнитур в два раза. 
+    </text>
+  </description>
+</product>
+<product id="14">
+  <name>Игровые наушники Edifier G7</name>
+  <image>src/img/catalog/Headphones/hr/edifier-g7-1-417x417.jpg.webp</image>
+  <price>767.00 BYN</price>
+  <characteristics>
+    <characteristic>
+      <name>Конструкция</name>
+      <value>Полноразмерные</value>
+    </characteristic>
+    <characteristic>
+      <name>Назначение </name>
+      <value>Геймерские</value>
+    </characteristic>
+    <characteristic>
+      <name>Версия Bluetooth</name>
+      <value>5.0</value>
+    </characteristic>
+    <characteristic>
+      <name>Аудиокодеки</name>
+      <value>SBC</value>
+    </characteristic>
+  </characteristics>
+  <description>
+    <text>
+        <b>Edifier G7</b> - это высококачественные игровые наушники, 
+        которые обеспечивают непревзойденное звуковое качество и комфорт. Они оснащены 50-миллиметровым титановым диафрагменным блоком и поддерживают 7.1 
+        объемный звук с 96 кГц/24 бит, что обеспечивает насыщенные басы и ясные высокие частоты.
+    </text>
+  </description>
+</product>
+<product id="15">
+  <name>Видеокамера Panasonic HC-V770</name>
+  <image>src/img/catalog/Video/HC-V770.jpg</image>
+  <price>1650.00 BYN</price>
+  <characteristics>
+    <characteristic>
+      <name>Разрешение</name>
+      <value>4К</value>
+    </characteristic>
+    <characteristic>
+      <name>Кадров/сек</name>
+      <value>60</value>
+    </characteristic>
+    <characteristic>
+      <name>Оптический зум</name>
+      <value>20х</value>
+    </characteristic>
+    <characteristic>
+      <name>Фокусное расст.</name>
+      <value>4,08-81,6 мм</value>
+    </characteristic>
+  </characteristics>
+  <description>
+    <text>
+        <b>PANASONIC HC-V770</b> - это высококачественная камера с 20-кратным оптическим зумом и 
+        интеллектуальным зумом 50x, что в два раза больше оптического зума. 
+         Камера поддерживает съемку в формате 1080p HD
+          и обеспечивает быстрый и точный автофокус,
+         стабилизацию изображения.
+    </text>
+  </description>
+</product>
+<product id="16">
+  <name>Видеокамера Panasonic HC-X1000</name>
+  <image>src/img/catalog/Video/panasonic_hc_x1000_rk_ultra_hd_1077993.jpg</image>
+  <price>4875.00 BYN</price>
+  <characteristics>
+    <characteristic>
+      <name>Разрешение</name>
+      <value>4К</value>
+    </characteristic>
+    <characteristic>
+      <name>Кадров/сек</name>
+      <value>60</value>
+    </characteristic>
+    <characteristic>
+      <name>Оптический зум</name>
+      <value>20х</value>
+    </characteristic>
+    <characteristic>
+      <name>Фокусное расст.</name>
+      <value>4,08-81,6 мм</value>
+    </characteristic>
+  </characteristics>
+  <description>
+    <text>
+        Профессиональная видеокамера <b>Panasonic HC-X1000</b> с высокоскоростной записью в формате 4К, 
+        разрешением, в 4 раза превышающем Full HD, гарантирующем высокую детализацию.
+    </text>
+  </description>
+</product>
+<product id="17">
+  <name>Квадракоптер DJI Mini 2</name>
+  <image>src/img/catalog/Video/hr/Kvadrokopter_DJI_Mini_2_kupit_v_minske_1_.webp</image>
+  <price>1550.00 BYN</price>
+  <characteristics>
+    <characteristic>
+      <name>Разрешение</name>
+      <value>4К</value>
+    </characteristic>
+    <characteristic>
+      <name>Кадров/сек</name>
+      <value>60</value>
+    </characteristic>
+    <characteristic>
+      <name>Дальность</name>
+      <value>6000 м</value>
+    </characteristic>
+    <characteristic>
+      <name>Стабилизация</name>
+      <value>Да</value>
+    </characteristic>
+  </characteristics>
+  <description>
+    <text>
+        <b>DJI Mini 2</b> — миниатюрный, но мощный дрон, 
+        который отлично подойдет даже начинающим пилотам. Всего несколько 
+        нажатий отделяют вас от качественных фото и креативных видеороликов. Новое устройство 
+        позволит вам взглянуть на мир под другим углом и запечатлеть важные моменты в отличном качестве.
+    </text>
+  </description>
+</product>
+<product id="18">
+  <name>Видеокамера CANON XA60</name>
+  <image>src/img/catalog/Video/hr/20231012111014473_CanonXA60-1.jpg</image>
+  <price>7909.00 BYN</price>
+  <characteristics>
+    <characteristic>
+      <name>Разрешение</name>
+      <value>4К</value>
+    </characteristic>
+    <characteristic>
+      <name>Кадров/сек</name>
+      <value>60</value>
+    </characteristic>
+    <characteristic>
+      <name>Оптический зум</name>
+      <value>20х</value>
+    </characteristic>
+    <characteristic>
+      <name>Фокусное расст.</name>
+      <value>29,3–601 мм</value>
+    </characteristic>
+  </characteristics>
+  <description>
+    <text>
+        Снимайте и транслируйте потоковое видео с помощью компактной <b>видеокамеры XA60</b>, которая предлагает 
+        универсальные возможности подключения и гибридный автофокус с распознаванием лиц.
+    </text>
+  </description>
+</product>
+<product id="19">
+  <name>Видеокамера SONY HXR-NX200</name>
+  <image>src/img/catalog/Video/hr/20210427150407941_HXR-NX200.jpg</image>
+  <price>12 489.90 BYN</price>
+  <characteristics>
+    <characteristic>
+      <name>Разрешение</name>
+      <value>4К</value>
+    </characteristic>
+    <characteristic>
+      <name>Кадров/сек</name>
+      <value>60</value>
+    </characteristic>
+    <characteristic>
+      <name>Оптический зум</name>
+      <value>24х</value>
+    </characteristic>
+    <characteristic>
+      <name>Фокусное расст.</name>
+      <value>9,3-111,6 мм</value>
+    </characteristic>
+  </characteristics>
+  <description>
+    <text>
+        Ручной камкордер <b>HXR-NX200</b> обеспечивает непревзойденное 
+        качество изображения в 4K (3840 x 2160) или Full HD при 50 Мбит/с
+    </text>
+  </description>
+</product>
+<product id="20">
+  <name>Светодиодная лампа GODOX LDX50BI</name>
+  <image>src/img/catalog/Video/hr/20240105090143895_god30531-3.jpg</image>
+  <price>704.90 BYN</price>
+  <characteristics>
+    <characteristic>
+      <name>Мощность</name>
+      <value>65Вт</value>
+    </characteristic>
+    <characteristic>
+      <name>Диапазон</name>
+      <value>2800К~6500К</value>
+    </characteristic>
+    <characteristic>
+      <name>Размеры</name>
+      <value>357×305×75 мм</value>
+    </characteristic>
+    <characteristic>
+      <name>Вес</name>
+      <value>1.85 кг</value>
+    </characteristic>
+  </characteristics>
+  <description>
+    <text>
+        Биколорный осветитель <b>Godox LDX50Bi</b> — универсальное решение д
+        ля использования в помещении и на улице за счет компактных размеров, 
+        крупной панели рассеивателя (30х22,5 см) и различных возможностей питания. 
+        Cоздавайте свет разной контрастности и мягкости в диапазоне 2800-6500К.
+    </text>
+  </description>
+</product>
+<product id="21">
+  <name>Хромакей GREENBEAN FIELD</name>
+  <image>src/img/catalog/Video/hr/20231226101202812_gb21577-1.jpg</image>
+  <price> 186.90 BYN</price>
+  <characteristics>
+    <characteristic>
+      <name>Материал</name>
+      <value>Тканевый</value>
+    </characteristic>
+    <characteristic>
+      <name>Цвет</name>
+      <value>Зеленый</value>
+    </characteristic>
+    <characteristic>
+      <name>Размер</name>
+      <value>3х7 м</value>
+    </characteristic>
+    <characteristic>
+      <name>Вес </name>
+      <value>3.5 кг</value>
+    </characteristic>
+  </characteristics>
+  <description>
+    <text>
+        <b>GreenBean Field 3.0 х 7.0 Green</b> — большой зелёный фон хромакей, окрашенный стойкими 
+        к истиранию красками, не дает бликов и легко чистится. 
+        В комплект входит сумка для хранения и транспортировки. Система крепления приобретается отдельно.
+    </text>
+  </description>
+</product>
+<product id="22">
+  <name>Светоотражатель GREENBEAN REFLECTPANEL 5 RP1015</name>
+  <image>src/img/catalog/Video/hr/20221101121156106_gb25262.jpg</image>
+  <price>265.90 BYN</price>
+  <characteristics>
+    <characteristic>
+      <name>Размер</name>
+      <value>100х150 см</value>
+    </characteristic>
+    <characteristic>
+      <name>Материал </name>
+      <value>Алюминий</value>
+    </characteristic>
+    <characteristic>
+      <name>Цвет</name>
+      <value>5 в 1</value>
+    </characteristic>
+    <characteristic>
+      <name>Вес</name>
+      <value>2,7 кг</value>
+    </characteristic>
+  </characteristics>
+  <description>
+    <text>
+        Отражатель на складной раме используется для подсветки отраженным светом от 
+        основного источника деталей, расположенных в тенях или наоборот, уменьшения светового потока с 
+        помощью черной ткани, а также для сглаживания светотеневого рисунка с помощью просветной ткани.
+  </text>
+  </description>
+</product>
+<product id="23">
+  <name>Зонт-отражатель GREENBEAN GB DEEP SILVER L</name>
+  <image>src/img/catalog/Video/hr/gb_deep_silver.jpg</image>
+  <price>209.90 BYN</price>
+  <characteristics>
+    <characteristic>
+      <name>Диаметр</name>
+      <value>4К</value>
+    </characteristic>
+    <characteristic>
+      <name>Вес</name>
+      <value>0.96 кг</value>
+    </characteristic>
+    <characteristic>
+      <name>Гарантия</name>
+      <value>1 мес</value>
+    </characteristic>
+    <characteristic>
+      <name>Цвет</name>
+      <value>Серебро</value>
+    </characteristic>
+  </characteristics>
+  <description>
+    <text>
+        <b>GreenBean GB Deep silver L</b> — серебристый зонт-отражатель, диаметр 130 см. 
+        Серебристый зонт эффективно используется для создания 
+        более жесткого света, позволяет получить контрастное изображение с четкими тенями.
+    </text>
+  </description>
+</product>
+<product id="24">
+  <name>Лампа YONGNUO YN-160</name>
+  <image>src/img/catalog/Video/hr/yongnuo_yn-160.jpg</image>
+  <price>179.90 BYN</price>
+  <characteristics>
+    <characteristic>
+      <name>Мощность</name>
+      <value>10 Вт</value>
+    </characteristic>
+    <characteristic>
+      <name>Температура света</name>
+      <value>5600К</value>
+    </characteristic>
+    <characteristic>
+      <name>Угол</name>
+      <value>55°</value>
+    </characteristic>
+    <characteristic>
+      <name>Вес</name>
+      <value>0.72 кг</value>
+    </characteristic>
+  </characteristics>
+  <description>
+    <text>
+        Накамерная лампа для видеосъемки <b>Yongnuo YN-160 II</b> с пультом дистанционного 
+        управления и встроенным конденсаторным 
+        микрофоном предназначена для работы с зеркальными фотоаппаратами и видеокамерами.
+    </text>
+  </description>
+</product>
+<product id="25">
+  <name>Мультивьюер AVMATRIX MV0430 3G-SDI 4CH</name>
+  <image>src/img/catalog/Video/AVAMATRIX.jpg</image>
+  <price>1107.00 BYN</price>
+  <characteristics>
+    <characteristic>
+      <name>Разрешение</name>
+      <value>4К</value>
+    </characteristic>
+    <characteristic>
+      <name>Кадров/сек</name>
+      <value>60</value>
+    </characteristic>
+    <characteristic>
+      <name>Оптический зум</name>
+      <value>24х</value>
+    </characteristic>
+    <characteristic>
+      <name>Фокусное расст.</name>
+      <value>9,3-111,6 мм</value>
+    </characteristic>
+  </characteristics>
+  <description>
+    <text>
+        Ручной камкордер <b>HXR-NX200</b> обеспечивает непревзойденное 
+        качество изображения в 4K (3840 x 2160) или Full HD при 50 Мбит/с
+    </text>
+  </description>
+  <product id="26">
+  <name>Видеосендер Hollyland Mars 4K</name>
+  <image>src/img/catalog/Video/hr/hollyland_mars.jpg</image>
+  <price>3339.90 BYN</price>
+  <characteristics>
+    <characteristic>
+      <name>Дальность</name>
+      <value>150 м</value>
+    </characteristic>
+    <characteristic>
+      <name>Скорость</name>
+      <value>20 Мбит/с</value>
+    </characteristic>
+    <characteristic>
+      <name>Задержка</name>
+      <value>до 0.06с</value>
+    </characteristic>
+    <characteristic>
+      <name>Вес</name>
+      <value>460 г</value>
+    </characteristic>
+  </characteristics>
+  <description>
+    <text>
+        <b>Hollyland Mars 4K 450ft 4K UHD</b> беспроводная система передачи
+         видео способна обеспечить дальность передачи до 150 метров и
+          сверхнизкую задержку 0,06 секунды он сочетает в себе высокую 
+          производительность и надежное качество. Видеосендер Hollyland
+           Mars 4K поддерживает передачу видео 4K UHD со скоростью 30 кадров
+            в секунду для требовательных кинематографистов,
+         которым нужны возможности производства с высоким разрешением.
+    </text>
+  </description>
+</product>
+<product id="27">
+  <name>Устройство видеозахвата AVMATRIX UC1218 HDMI USB</name>
+  <image>src/img/catalog/Video/UC1218.jpg</image>
+  <price>768.00 BYN</price>
+  <characteristics>
+    <characteristic>
+      <name>Вход</name>
+      <value>HDMI</value>
+    </characteristic>
+    <characteristic>
+      <name>Выход</name>
+      <value>USB</value>
+    </characteristic>
+    <characteristic>
+      <name>Разрешение</name>
+      <value>1080р60</value>
+    </characteristic>
+    <characteristic>
+      <name>Скорость</name>
+      <value>200 Мбит/с </value>
+    </characteristic>
+  </characteristics>
+  <description>
+    <text>
+        Профессиональное и простое в использовании устройство для 
+        захвата HDMI сигнала через USB3.1 Gen1 - для захвата графики, прямой трансляции, 
+        записи на ноутбук или ПК. Поддерживается разрешение видео до 1080p 60 Гц
+    </text>
+  </description>
+</product>
+<product id="28">
+  <name>Obsbot Tiny 2</name>
+  <image>src/img/catalog/Video/hr/obsbot.jpg</image>
+  <price>1669.00 BYN</price>
+  <characteristics>
+    <characteristic>
+      <name>Разрешение</name>
+      <value>4К</value>
+    </characteristic>
+    <characteristic>
+      <name>Кадров/сек</name>
+      <value>60</value>
+    </characteristic>
+    <characteristic>
+      <name>Оптический зум</name>
+      <value>4х</value>
+    </characteristic>
+    <characteristic>
+      <name>Сенсор</name>
+      <value>1/1.5″ CMOS</value>
+    </characteristic>
+  </characteristics>
+  <description>
+    <text>
+        <b>Tiny 2</b> — новая модель поворотной веб-камеры OBSBOT, в сердце которой модернизированный алгоритм машинного обучения для автоматического отслеживания пользователя в кадре.
+         OBSBOT Tiny 2 предлагает автоматическое масштабирование картинки прямо во время отслеживания
+    </text>
+  </description>
+</product>
+<product id="29">
+  <name>Видеорекордер AJA Ki Pro Ultra 12G</name>
+  <image>src/img/catalog/Video/ULTRA 12G.png</image>
+  <price>24 294 BYN</price>
+  <characteristics>
+    <characteristic>
+      <name>Разрешение</name>
+      <value>4К</value>
+    </characteristic>
+    <characteristic>
+      <name>Кадров/сек</name>
+      <value>60</value>
+    </characteristic>
+    <characteristic>
+      <name>Многоканальность</name>
+      <value>До 4</value>
+    </characteristic>
+    <characteristic>
+      <name>Wi-Fi</name>
+      <value>Да</value>
+    </characteristic>
+  </characteristics>
+  <description>
+    <text>
+        <b>Ki Pro Ultra 12G</b> — это многоканальный Apple ProRes 
+        рекордер, способный одноверменно записывать до 4 
+        каналов HD или один канал 4K/UltraHD/2K/HD в кодеках Apple ProRes или Avid DNxHR. Формат компрессии Avid 
+        DNxHD® MXF также поддерживается для HD-форматов в одноканальном режиме.
+    </text>
+  </description>
+</product>
+<product id="30">
+  <name>Виниловый проигрыватель Audio-Technica AT-LP120</name>
+  <image>src/img/catalog/Player/ATLP120XUSBhc.jpg</image>
+  <price>1690.00 BYN</price>
+    <characteristics>
+    <characteristic>
+      <name>Bluetooth</name>
+      <value>Нет</value>
+    </characteristic>
+    <characteristic>
+      <name>Выход на наушники</name>
+      <value>Нет</value>
+    </characteristic>
+    <characteristic>
+      <name>Крышка</name>
+      <value>Да</value>
+    </characteristic>
+    <characteristic>
+      <name>Скорости(об/мин)</name>
+      <value>33 1/3,45,78</value>
+    </characteristic>
+  </characteristics>
+  <description>
+    <text>
+        <b>Виниловый проигрыватель Audio-Technica AT-LP120</b> - это профессиональный проигрыватель
+         виниловых дисков с безредукторным мотором, обеспечивающим быстрый запуск, и USB-выходом
+         , позволяющим выводить звук на компьютер для оцифровки. Предусмотрены три скорости для
+          дисков разного типа с электронным переключением,
+         а также функция воспроизведения в обратном направлении. .
+    </text>
+  </description>
+</product>
+<product id="31">
+  <name>Виниловый проигрыватель Audio-Technica AT-LP3XBT</name>
+  <image>src/img/catalog/Player/at-lp3xbt.webp</image>
+  <price>1390.00 BYN</price>
+    <characteristics>
+    <characteristic>
+      <name>Bluetooth</name>
+      <value>Да</value>
+    </characteristic>
+    <characteristic>
+      <name>Выход на наушники</name>
+      <value>Нет</value>
+    </characteristic>
+    <characteristic>
+      <name>Крышка</name>
+      <value>Да</value>
+    </characteristic>
+    <characteristic>
+      <name>Скорости(об/мин)</name>
+      <value>33 1/3,45</value>
+    </characteristic>
+  </characteristics>
+  <description>
+    <text>
+        <b>Виниловый проигрыватель Audio-Technica AT-LP3XBT</b> - это полностью автоматический
+         проигрыватель, предназначенный для воспроизведения аналогового звука с
+         расширенными функциями и улучшенной беспроводной технологией Bluetooth.
+    </text>
+  </description>
+</product>
+<product id="32">
+  <name>Виниловый проигрыватель Audio-Technica AT-LPW50PB</name>
+  <image>src/img/catalog/Player/at-lpw50pb.webp</image>
+  <price>1290.00 BYN</price>
+    <characteristics>
+    <characteristic>
+      <name>Bluetooth</name>
+      <value>Нет</value>
+    </characteristic>
+    <characteristic>
+      <name>Выход на наушники</name>
+      <value>Нет</value>
+    </characteristic>
+    <characteristic>
+      <name>Крышка</name>
+      <value>Да</value>
+    </characteristic>
+    <characteristic>
+      <name>Скорости(об/мин)</name>
+      <value>33 1/3,45</value>
+    </characteristic>
+  </characteristics>
+  <description>
+    <text>
+        <b>Виниловый проигрыватель Audio-Technica AT-LPW50PB</b> - проигрыватель виниловых 
+        дисков с ручным управлением. Он спроектирован для тех, 
+        кто желает добиться Hi-Fi звука от виниловых пластинок.
+    </text>
+  </description>
+</product>  
+  <product id="33">
+  <name>Виниловый проигрыватель Audio-Technica AT-LPW30</name>
+  <image>src/img/catalog/Player/AT-LPW30.webp</image>
+  <price>1175.00 BYN</price>
+    <characteristics>
+    <characteristic>
+      <name>Bluetooth</name>
+      <value>Нет</value>
+    </characteristic>
+    <characteristic>
+      <name>Выход на наушники</name>
+      <value>Нет</value>
+    </characteristic>
+    <characteristic>
+      <name>Крышка</name>
+      <value>Да</value>
+    </characteristic>
+    <characteristic>
+      <name>Скорости(об/мин)</name>
+      <value>33 1/3,45</value>
+    </characteristic>
+  </characteristics>
+  <description>
+    <text>
+        <b>Виниловый проигрыватель Audio-Technica AT-LPW30</b> ― профессиональный проигрыватель ручного
+         управления. Оптимизированное воспроизведение музыки, 
+        уменьшенный резонанс для мелодичности звука и обновленный дизайн.
+    </text>
+  </description>
+</product> 
+<product id="34">
+  <name>Виниловый проигрыватель TEAC TN-175</name>
+  <image>src/img/catalog/Player/teac-tn-175.webp</image>
+  <price>875.00 BYN</price>
+    <characteristics>
+    <characteristic>
+      <name>Bluetooth</name>
+      <value>Нет</value>
+    </characteristic>
+    <characteristic>
+      <name>Выход на наушники</name>
+      <value>Нет</value>
+    </characteristic>
+    <characteristic>
+      <name>Крышка</name>
+      <value>Да</value>
+    </characteristic>
+    <characteristic>
+      <name>Скорости(об/мин)</name>
+      <value>33 1/3,45</value>
+    </characteristic>
+  </characteristics>
+  <description>
+    <text>
+        Японский бренд TEAC представил полностью автоматический проигрыватель винила <b>TN-175</b>. 
+        Он сможет стать ярким дебютом в мире аналогового звука для меломанов.
+    </text>
+  </description>
+</product> 
+<product id="35">
+  <name>Виниловый проигрыватель TEAC TN-3B</name>
+  <image>src/img/catalog/Player/TEAC-TN-3B.webp</image>
+  <price>1824.00 BYN</price>
+    <characteristics>
+    <characteristic>
+      <name>Bluetooth</name>
+      <value>Нет</value>
+    </characteristic>
+    <characteristic>
+      <name>Выход на наушники</name>
+      <value>Нет</value>
+    </characteristic>
+    <characteristic>
+      <name>Крышка</name>
+      <value>Да</value>
+    </characteristic>
+    <characteristic>
+      <name>Скорости(об/мин)</name>
+      <value>33 1/3,45,78</value>
+    </characteristic>
+  </characteristics>
+  <description>
+    <text>
+       <b>Проигрыватель виниловых дисков TEAC TN-3B</b> - это стильный, элегантный проигрыватель в 
+       специальной отделке. Модель оснащена ременным приводом, встроенным фонокорректором 
+       PHONO EQ MM-типа и  S-образный тонарм, разработанным совместно с SAEC.
+    </text>
+  </description>
+</product> 
+<product id="36">
+  <name>Виниловый проигрыватель TEAC TN-280BT</name>
+  <image>src/img/catalog/Player/TEAC-TN-280.webp</image>
+  <price>1299.00 BYN</price>
+    <characteristics>
+    <characteristic>
+      <name>Bluetooth</name>
+      <value>Да</value>
+    </characteristic>
+    <characteristic>
+      <name>Выход на наушники</name>
+      <value>Нет</value>
+    </characteristic>
+    <characteristic>
+      <name>Крышка</name>
+      <value>Да</value>
+    </characteristic>
+    <characteristic>
+      <name>Скорости(об/мин)</name>
+      <value>33 1/3,45</value>
+    </characteristic>
+  </characteristics>
+  <description>
+    <text>
+        <b>TEAC TN-280BT</b> оснащен широким набором дополнительных функций, 
+        которые наверняка понравятся начинающим меломанам. Аппарат имеет классическую конструкцию и выполнен на шасси из MDF, надежно защищающем его элементы от вибраций. 
+        На проигрывателе установлен алюминиевый опорный диск, дополненный фетровым матом.
+    </text>
+  </description>
+</product> 
+<product id="37">
+  <name>Виниловый проигрыватель TEAC TN-4D</name>
+  <image>src/img/catalog/Player/TEAC-TN-4D.jpg</image>
+  <price>2620.00 BYN</price>
+    <characteristics>
+    <characteristic>
+      <name>Bluetooth</name>
+      <value>Нет</value>
+    </characteristic>
+    <characteristic>
+      <name>Выход на наушники</name>
+      <value>Нет</value>
+    </characteristic>
+    <characteristic>
+      <name>Крышка</name>
+      <value>Да</value>
+    </characteristic>
+    <characteristic>
+      <name>Скорости(об/мин)</name>
+      <value>33 1/3,45</value>
+    </characteristic>
+  </characteristics>
+  <description>
+    <text>
+        <b>TEAC TN-4D</b> - это виниловый проигрыватель с прямым приводом и элегантным низкопрофильным дизайном, 
+        который стал возможен благодаря 
+        использованию недавно разработанного бесщеточного серводвигателя постоянного тока.
+    </text>
+  </description>
+</product>
+<product id="38">
+  <name>Виниловый проигрыватель TEAC TN-5BB</name>
+  <image>src/img/catalog/Player/TEAC-TN-5BB.webp</image>
+  <price>7990.00 BYN</price>
+    <characteristics>
+    <characteristic>
+      <name>Bluetooth</name>
+      <value>Нет</value>
+    </characteristic>
+    <characteristic>
+      <name>Выход на наушники</name>
+      <value>Нет</value>
+    </characteristic>
+    <characteristic>
+      <name>Крышка</name>
+      <value>Да</value>
+    </characteristic>
+    <characteristic>
+      <name>Скорости(об/мин)</name>
+      <value>33 1/3,45,78</value>
+    </characteristic>
+  </characteristics>
+  <description>
+    <text>
+        <b>TN-5BB</b> – это новый флагманский проигрыватель виниловых пластинок,
+         который оснащен балансным выходом фонокорректора для головок 
+         звукоснимателей типа MC. У него многослойное гибридное шасси из 
+         синтетического мрамора, японской традиционной бумаги «Washi» и MDF, 
+        а также 9-дюймовый S-образный универсальный тонарм с подшипником ножевого типа.
+    </text>
+  </description>
+</product>  
+<product id="39">
+  <name>Виниловый проигрыватель Pioneer PLX-500</name>
+  <image>src/img/catalog/Player/Pioneer-PLX-500.jpg</image>
+  <price>1899.00 BYN</price>
+    <characteristics>
+    <characteristic>
+      <name>Bluetooth</name>
+      <value>Нет</value>
+    </characteristic>
+    <characteristic>
+      <name>Выход на наушники</name>
+      <value>Нет</value>
+    </characteristic>
+    <characteristic>
+      <name>Крышка</name>
+      <value>Да</value>
+    </characteristic>
+    <characteristic>
+      <name>Скорости(об/мин)</name>
+      <value>33 1/3,45,78</value>
+    </characteristic>
+  </characteristics>
+  <description>
+    <text>
+        <b>Pioneer PLX-500</b> –
+         DJ проигрыватель винила с прямым приводом, 3 скоростями воспроизведения, фоно/линейным и USB выходом.
+    </text>
+  </description>
+</product>  
+<product id="40">
+  <name>Виниловый проигрыватель Pioneer DJ-PLX-1000</name>
+  <image>src/img/catalog/Player/Pioneer-DJ-PLX-1000.webp</image>
+  <price>3190.00 BYN</price>
+    <characteristics>
+    <characteristic>
+      <name>Bluetooth</name>
+      <value>Нет</value>
+    </characteristic>
+    <characteristic>
+      <name>Выход на наушники</name>
+      <value>Нет</value>
+    </characteristic>
+    <characteristic>
+      <name>Крышка</name>
+      <value>Да</value>
+    </characteristic>
+    <characteristic>
+      <name>Скорости(об/мин)</name>
+      <value>33 1/3,45</value>
+    </characteristic>
+  </characteristics>
+  <description>
+    <text>
+        Профессиональный проигрыватель с прямым приводом <b>Pioneer DJ PLX-1000</b> предлагает 
+        удобное расположение органов управления, высокий крутящий момент, 
+        прямой привод механизма и исключительное качество звука воспроизведения.
+    </text>
+  </description>
+</product>  
+<product id="41">
+  <name>Виниловый проигрыватель Pioneer DJ-PLX-700</name>
+  <image>src/img/catalog/Player/Pioneer-DJ-PLX-700.webp</image>
+  <price>2189.00 BYN</price>
+    <characteristics>
+    <characteristic>
+      <name>Bluetooth</name>
+      <value>Нет</value>
+    </characteristic>
+    <characteristic>
+      <name>Выход на наушники</name>
+      <value>Нет</value>
+    </characteristic>
+    <characteristic>
+      <name>Крышка</name>
+      <value>Да</value>
+    </characteristic>
+    <characteristic>
+      <name>Скорости(об/мин)</name>
+      <value>33 1/3,45,78</value>
+    </characteristic>
+  </characteristics>
+  <description>
+    <text>
+        <b>Pioneer DJ-PLX-700</b> — профессиональный DJ-проигрыватель 
+        с S-образным тонармом, 3 скоростями, прямым приводом, регулировкой питча и съемным LED-фонариком.
+    </text>
+  </description>
+</product>  
+<product id="42">
+  <name>Виниловый проигрыватель Pioneer Debut Pro</name>
+  <image>src/img/catalog/Player/Pioneer-Debut-Pro.webp</image>
+  <price>3190.00 BYN</price>
+    <characteristics>
+    <characteristic>
+      <name>Bluetooth</name>
+      <value>Нет</value>
+    </characteristic>
+    <characteristic>
+      <name>Выход на наушники</name>
+      <value>Нет</value>
+    </characteristic>
+    <characteristic>
+      <name>Крышка</name>
+      <value>Да</value>
+    </characteristic>
+    <characteristic>
+      <name>Скорости(об/мин)</name>
+      <value>33 1/3,45.78</value>
+    </characteristic>
+  </characteristics>
+  <description>
+    <text>
+        Проигрыватель винила <b>Pioneer Debut Pro</b> сохранил узнаваемый лаконичный дизайн и 
+        общую концепцию компании, однако имеет ряд свежих доработок - 
+        тонарм получил возможность настройки угла VTA и азимута для использования различных головок звукоснимателя.
+    </text>
+  </description>
+</product>  
+<product id="43">
+  <name>Виниловый проигрыватель Pioneer SL-1210</name>
+  <image>src/img/catalog/Player/Pioneer-SL-1210.webp</image>
+  <price>6990.00 BYN</price>
+    <characteristics>
+    <characteristic>
+      <name>Bluetooth</name>
+      <value>Нет</value>
+    </characteristic>
+    <characteristic>
+      <name>Выход на наушники</name>
+      <value>Нет</value>
+    </characteristic>
+    <characteristic>
+      <name>Крышка</name>
+      <value>Да</value>
+    </characteristic>
+    <characteristic>
+      <name>Скорости(об/мин)</name>
+      <value>33 1/3,45.78</value>
+    </characteristic>
+  </characteristics>
+  <description>
+    <text>
+        <b>Проигрыватель винила Pioneer SL-1210</b>  представляет 
+        собой дальнейшее развитие знаменитой модели, предназначенной и для меломанов, и профессионалов.
+    </text>
+  </description>
+</product>  
+<product id="44">
+  <name>Виниловый проигрыватель Audio-Technica AT-LP140XP</name>
+  <image>src/img/catalog/Player/AT-LP140X.webp</image>
+  <price>2050.00 BYN</price>
+    <characteristics>
+    <characteristic>
+      <name>Bluetooth</name>
+      <value>Нет</value>
+    </characteristic>
+    <characteristic>
+      <name>Выход на наушники</name>
+      <value>Нет</value>
+    </characteristic>
+    <characteristic>
+      <name>Крышка</name>
+      <value>Да</value>
+    </characteristic>
+    <characteristic>
+      <name>Скорости(об/мин)</name>
+      <value>33 1/3,45,78</value>
+    </characteristic>
+  </characteristics>
+  <description>
+    <text>
+        <b>Виниловый проигрыватель Audio-Technica AT LP-140XPSilver</b> - профессиональный проигрыватель виниловых пластинок с полностью ручным управлением,
+        прямым приводом, опорным диском из литого алюминия, устойчивым к резонансу.
+    </text>
+  </description>
+</product>
+</catalog>

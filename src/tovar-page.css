@@ -1,0 +1,201 @@
+.wrapper{
+    width: 1280px;
+    height: 700px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-direction: column;
+
+      }
+      .tovar-name{ 
+        font-size: 32px;
+        font-weight: 500;
+        margin: 25px 0px;
+      }
+      .order-price{
+        font-size: 32px;
+        font-weight: 700;
+      }
+      div.img img{
+        width: 375px;
+        height: 375px;
+        object-fit: contain;
+        padding-left: 50px;
+    
+      }
+      div.main{
+        gap: 100px;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-evenly;
+      }
+      div.info{
+        display: flex;
+        flex-direction: column;
+      }
+      div.order-price{
+        display: flex;
+        gap: 150px;
+        align-items: center ;
+      }
+      .order-price b{
+        padding-left: 30px;
+      }
+      a{
+        text-decoration: none;
+      }
+      div.order-button{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background-color: #2B94B5;
+        width: 260px;
+        height: 50px;
+        margin-top: auto;
+        border-radius: 10px;
+        border: 4px solid #2B94B5;
+      }
+      div.order-button p{
+        margin: auto;
+        color: #fff;
+        font-size: 24px;
+        text-align: center;
+        border-radius: 10px;
+      }
+      div.order-button:hover{
+        background-color: #FFF;
+
+      }
+      div.order-button:hover p{
+        color: #2B94B5;
+      }
+      .char-desc{
+        margin-top: 50px;
+        display: flex;
+        flex-direction: row;
+        gap: 80px;
+      } 
+      h2{
+        margin-bottom: 20px;
+        text-align: center;
+        padding-right: 70px;
+      }
+      .char{
+        width: 300px;
+      }
+      .desc{
+        width: 350px;
+      }
+      ul li{
+        color: #222;
+        font-weight: 200;
+        text-align: left;
+        list-style: none;
+        padding: 10px 0;
+        font-size: 16px;
+        display: flex;
+        justify-content: space-between;
+      }
+      @media(min-width:481px) and (max-width:768px){
+        div.order-price{
+          display: flex;
+          gap: 75px;
+          align-items: center ;
+        }
+        div.img img{
+          padding-left: 0px;
+          width: 325px;
+          height: 325px;
+        }
+        div.wrapper{
+          height: 100%;
+          width: 100%;
+        }
+        div.tovar-name{
+          font-size: 26px;
+          text-align: center;
+        }
+        div.main{
+          flex-direction: column;
+          align-items: center;
+        }
+        div.info{
+          flex-direction: column;
+        }
+        .char-desc{
+          align-items: center;
+          align-self: center;
+          padding-bottom: 100px;
+          gap: 20px;
+        }
+        
+        .desc{
+          width: 225px;
+          font-size: 12px;
+        } 
+        ul li{
+          padding: 10px 0;
+          font-size: 12px;
+          display: flex;
+          justify-content: space-between;
+        }
+        h2{
+          font-size: 18px;
+          padding: 0px;
+        }
+      }
+      @media(max-width:480px){
+        div.order-price{
+          display: flex;
+          gap: 35px;
+          align-items: center ;
+          font-size: 24px;
+        }
+        div.order-price b{
+          padding-left: 20px;
+          width: 140px;
+        }
+
+        div.img img{
+          padding-left: 0px;
+          width: 275px;
+          height: 275px;
+        }
+        div.wrapper{
+          height: 100%;
+          width: 100%;
+        }
+        div.tovar-name{
+          font-size: 20px;
+          text-align: center;
+        }
+        div.main{
+          flex-direction: column;
+          align-items: center;
+        }
+        div.info{
+          flex-direction: column;
+        }
+        .char-desc{
+          flex-direction: column;
+          align-items: center;
+          align-self: center;
+          padding-bottom: 100px;
+          gap: 20px;
+        }
+        
+        .desc{
+          width: 300px;
+          font-size: 15px;
+        } 
+        ul li{
+          padding: 10px 0;
+          font-size: 15px;
+          display: flex;
+          justify-content: space-between;
+        }
+        h2{
+          font-size: 15px;
+          padding: 0px;
+        }
+      }
