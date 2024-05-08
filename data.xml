@@ -740,28 +740,29 @@
   <price>1107.00 BYN</price>
   <characteristics>
     <characteristic>
-      <name>Разрешение</name>
-      <value>4К</value>
+      <name>Вход</name>
+      <value>4xSDI/HD/3G-SDI</value>
     </characteristic>
     <characteristic>
-      <name>Кадров/сек</name>
-      <value>60</value>
+      <name>Выход</name>
+      <value>2xSD/HD/3G-SDI</value>
     </characteristic>
     <characteristic>
-      <name>Оптический зум</name>
-      <value>24х</value>
+      <name>USB</name>
+      <value>Да</value>
     </characteristic>
     <characteristic>
-      <name>Фокусное расст.</name>
-      <value>9,3-111,6 мм</value>
+      <name>Вес</name>
+      <value>560 г</value>
     </characteristic>
   </characteristics>
   <description>
     <text>
-        Ручной камкордер <b>HXR-NX200</b> обеспечивает непревзойденное 
-        качество изображения в 4K (3840 x 2160) или Full HD при 50 Мбит/с
+        <b>MV0430</b> – это изящный и профессиональный SDI мультивьювер, который оснащен 4-мя входами 3G / HD / SD-SDI с автодетектированием сигнала и 2-мя выходами 3G-SDI, 
+        а также одним выходом HDMI. На выбор предусмотрено 16 предустановленных макетов мультиэкрана.
     </text>
   </description>
+  </product>
   <product id="26">
   <name>Видеосендер Hollyland Mars 4K</name>
   <image>src/img/catalog/Video/hr/hollyland_mars.jpg</image>
