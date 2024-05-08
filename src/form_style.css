@@ -58,7 +58,19 @@ div.wrapper{
         h1{
           margin:  10px 0px;
         }
-        label{
-          font-size: 16px;
+        form div{
+          font-size: 12px;
         }
+        form input{
+          width: 175px;
+        }
+       .button-order{
+         background-color: #2B94B5;
+         border-radius: 10px;
+         width: 300px;
+         height: 40px;
+         border: #2B94B5 solid 2px;
+         color: #fff;
+         font-size: 14px;
+       }
       }

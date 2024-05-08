@@ -143,6 +143,19 @@
           font-size: 18px;
           padding: 0px;
         }
+        div.order-button{
+          width: 200px;
+          height: 40px;
+          border: 2px solid #2B94B5;
+        }
+
+        div.order-button p{
+          font-size: 16px;
+        }
+
+        .order-price b{
+          font-size: 26pxs;
+        }
       }
       @media(max-width:480px){
         div.order-price{
@@ -197,5 +210,18 @@
         h2{
           font-size: 15px;
           padding: 0px;
+        }
+
+        div.order-button{
+          width: 130px;
+          height: 25px;
+          border: 2px solid #2B94B5;
+        }
+
+        div.order-button p{
+          font-size: 12px;
+        }
+        .order-price b{
+          font-size: 20pxs;
         }
       }
