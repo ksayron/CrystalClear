@@ -21,6 +21,7 @@ header {
     align-items: center;
     padding: 12px 0px;
     background-color: #e8f2ef;
+    padding-left:50px;
   }
 
 .company{
@@ -195,7 +196,7 @@ header {
 }
 h1{
   text-align: center;
-  margin: 80px 0px;
+  margin: 30px 0px;
 }
 .desc{
     padding-left: 5px;
@@ -266,6 +267,7 @@ footer{
     color: #fff;
     gap: 25px;
     padding: 30px 0px;
+    margin-top: 50px;
 }
 
 .contact{
