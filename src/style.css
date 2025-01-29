@@ -278,7 +278,7 @@ footer{
 
 
 .desc .name:hover u{
-  text-decoration: underline;
+  text-decoration: underline; 
 }
 .desc .name u{
   text-decoration:none;
