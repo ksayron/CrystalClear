@@ -11,7 +11,8 @@
  const productId = urlParams.get('id');
 
  fetch('data.xml')
-     .then(response => response.text())
+     .then(response => 
+	     response.text())
      .then(data => {
          const parser = new DOMParser();
          const xmlDoc = parser.parseFromString(data, 'application/xml');
